@@ -1,0 +1,60 @@
+package lesson1_intro;
+
+public class Figures {
+    public static void main(String[] args) {
+        System.out.println("       ()()         ");
+        System.out.println("  ----(='_'=)-----  ");
+        System.out.println("      (  .  )       ");
+        System.out.println("     c(('')('')     ");
+        System.out.println("");
+        System.out.println("____________________");
+        System.out.println("");
+        System.out.println(" ———————————————— ");
+        System.out.println(" ｜             ｜ ");
+        System.out.println(" ｜             ｜ ");
+        System.out.println(" ｜             ｜ ");
+        System.out.println(" ｜             ｜ ");
+        System.out.println(" ————————————————  ");
+        System.out.println("");
+        System.out.println("____________________");
+        System.out.println("");
+        System.out.println("     /\\           ");
+        System.out.println("    /  \\          ");
+        System.out.println("   /    \\         ");
+        System.out.println("  /      \\        ");
+        System.out.println(" /________\\       ");
+        System.out.println("");
+        System.out.println("____________________");
+        System.out.println("");
+        System.out.println("\\");
+        System.out.println("\"");
+        System.out.println("\n");
+        System.out.println("\t1111");
+        System.out.println("");
+        System.out.println("____________________");
+        System.out.println("");
+        System.out.println("      )  ");
+        System.out.println("   (      ");
+        System.out.println("    )     ");
+        System.out.println("  +------+");
+        System.out.println("  |      |]");
+        System.out.println("  \\      /");
+        System.out.println("   `----'");
+        System.out.println("");
+        System.out.println("____________________");
+        System.out.println("");
+        System.out.println("      .+------+     ");
+        System.out.println("   .-' |      |`-.  ");
+        System.out.println("  /    |      |    \\ ");
+        System.out.println(" |     |      |     |");
+        System.out.println(" |     +------+     |");
+        System.out.println(" |     |      |     |");
+        System.out.println(" |     |      |     |");
+        System.out.println(" |     |      |     |");
+        System.out.println("  \\    |      |    / ");
+        System.out.println("   '-._|______|_.-'  ");
+        System.out.println("       |______|      ");
+        System.out.println("      /________\\     ");
+        System.out.println("      `--------'     ");
+    }
+}
